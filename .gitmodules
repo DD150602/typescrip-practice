@@ -1,0 +1,3 @@
+[submodule "TypeScript-miniproject"]
+	path = TypeScript-miniproject
+	url = git@github.com:DD150602/TypeScript-miniproject.git
